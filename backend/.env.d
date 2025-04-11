@@ -1,0 +1,4 @@
+DB_HOST=
+DB_USER=apms
+DB_PASSWORD=apms114514
+DB_NAME=apms
